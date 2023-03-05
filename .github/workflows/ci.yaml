@@ -36,7 +36,7 @@ jobs:
     outputs:
       from_version: \${{ steps.step1.outputs.from_version }}
       to_version: \${{ steps.step1.outputs.to_version }}
-      is_upgraded_version: \${{ steps.step1.outputs.is_upgraded_version }}
+      is_upgraded_version: 'true'
     steps:
     - uses: garronej/ts-ci@v1.1.7
       id: step1
