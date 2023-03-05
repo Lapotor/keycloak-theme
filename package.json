@@ -1,11 +1,11 @@
 {
-    "name": "keycloakify-starter",
-    "homepage": "https://starter.keycloakify.dev",
-    "version": "3.0.0",
+    "name": "keycloak-theme",
+    "homepage": "https://simliveradio.net",
+    "version": "0.0.0",
     "description": "A starter/demo project for keycloakify",
     "repository": {
         "type": "git",
-        "url": "git://github.com/codegouvfr/keycloakify-starter.git"
+        "url": "git://github.com/SimLive-Radio/keycloak-theme.git"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -19,7 +19,7 @@
             "my-extra-page-2.ftl"
         ]
     },
-    "author": "u/garronej",
+    "author": "u/lapotor",
     "license": "MIT",
     "keywords": [],
     "dependencies": {
