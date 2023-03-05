@@ -1,7 +1,7 @@
 {
     "name": "keycloak-theme",
     "homepage": "https://simliveradio.net",
-    "version": "3.0.1",
+    "version": "0.0.1",
     "description": "A starter/demo project for keycloakify",
     "repository": {
         "type": "git",
